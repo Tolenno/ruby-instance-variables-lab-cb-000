@@ -11,4 +11,4 @@ end
 
 joe = Dog.new
 joe.name = "Joe"
-Dog.name
+puts Dog.name
