@@ -7,3 +7,8 @@ class Dog
     @this_dogs_name
   end
 end
+
+
+Dog.name=(Bob)
+
+Dog.name
